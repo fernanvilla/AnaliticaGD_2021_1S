@@ -1,0 +1,10 @@
+1,El Pez Cuezo,1990,3.6,7160
+2,Habia una vez Aranjuez,1986,4.3,6500
+3,Fast and Prieto,1989,4.1,7802
+4,La gran Bavarra,1995,3.7,6022
+5,Las rentas de capital,1991,4.5,5320
+6,Residente del Mal,1990,3.9,4304
+7,Aguacates Maduros,2014,3.1,5123
+8,Thor Nado,2014,2.4,7363
+9,Ella me encontro,1990,2.2,6144
+10,Agua de Panela Marchita,2004,3.8,6556

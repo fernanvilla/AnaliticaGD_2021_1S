@@ -1,0 +1,4 @@
+The field of data analysis. Analytics often involves studying past historical data to
+research potential trends, to analyze the effects of certain decisions or events, or to
+evaluate the performance of a given tool or scenario. The goal of analytics is to improve
+the business by gaining knowledge which can be used to make improvements or changes.

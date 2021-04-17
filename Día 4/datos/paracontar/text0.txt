@@ -1,0 +1,14 @@
+Analytics is the discovery, interpretation, and communication of meaningful patterns
+in data. Especially valuable in areas rich with recorded information, analytics relies
+on the simultaneous application of statistics, computer programming and operations research
+to quantify performance.
+
+Organizations may apply analytics to business data to describe, predict, and improve business
+performance. Specifically, areas within analytics include predictive analytics, prescriptive
+analytics, enterprise decision management, descriptive analytics, cognitive analytics, Big
+Data Analytics, retail analytics, store assortment and stock-keeping unit optimization,
+marketing optimization and marketing mix modeling, web analytics, call analytics, speech
+analytics, sales force sizing and optimization, price and promotion modeling, predictive
+science, credit risk analysis, and fraud analytics. Since analytics can require extensive
+computation (see big data), the algorithms and software used for analytics harness the most
+current methods in computer science, statistics, and mathematics.
